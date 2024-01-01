@@ -69,6 +69,10 @@ header a {
   transition: all .2s ease-in-out;
 }
 
+a {
+  text-decoration: none;
+}
+
 header nav {
   padding: 6.5px 0px 6.5px 0px;
   display: flex;
